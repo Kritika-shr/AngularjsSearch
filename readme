@@ -1,0 +1,27 @@
+//Create a variable myapp and it will hold our modules.
+
+//angule.module will have a name of myApp
+
+//[] is used to put dependiencies in the application
+
+//The variable will have all the code for myapp.This is called namespacing
+//The name myApp is unique to angular project
+var myApp = angular.module('myApp', []);
+
+//Creating Controllers
+//inside myApp variable we use controller method give it a name myController and this will have a function and the function name is myController
+//and that function is going to recieve a variable called $scope
+
+// myApp.controller('myController' , function myController($scope)){});
+
+//Controller use something called scope.$scope is like super variable which is used to pass things from javascript to your application and template and vise versa
+
+//Now we need a model or some data
+
+// We will create a model manually
+
+//$scope.author = "object"
+
+//Inside the object we will create name and value pair
+
+Routing

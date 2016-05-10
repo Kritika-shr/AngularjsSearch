@@ -1,0 +1,1808 @@
+[
+  {
+    "SNo":1,
+    "Country":"United Arab Emirates",
+    "CapitalCity":"Abu Dhabi",
+    "notes":"United Arab Emirates Abu Dhabi ",
+    "FIELD5":""
+  },
+  {
+    "SNo":2,
+    "Country":"Nigeria",
+    "CapitalCity":"Abuja",
+    "notes":"NigeriaAbuja",
+    "FIELD5":""
+  },
+  {
+    "SNo":3,
+    "Country":"Ghana",
+    "CapitalCity":"Accra",
+    "notes":"GhanaAccra",
+    "FIELD5":""
+  },
+  {
+    "SNo":4,
+    "Country":"Pitcairn Islands",
+    "CapitalCity":"Adamstown",
+    "notes":"Pitcairn IslandsAdamstown",
+    "FIELD5":""
+  },
+  {
+    "SNo":5,
+    "Country":"Ethiopia",
+    "CapitalCity":"Addis Ababa",
+    "notes":"EthiopiaAddis Ababa",
+    "FIELD5":""
+  },
+  {
+    "SNo":6,
+    "Country":"Algeria",
+    "CapitalCity":"Algiers",
+    "notes":"AlgeriaAlgiers",
+    "FIELD5":""
+  },
+  {
+    "SNo":7,
+    "Country":"Niue",
+    "CapitalCity":"Alofi",
+    "notes":"NiueAlofi",
+    "FIELD5":""
+  },
+  {
+    "SNo":8,
+    "Country":"Jordan",
+    "CapitalCity":"Amman",
+    "notes":"JordanAmman",
+    "FIELD5":""
+  },
+  {
+    "SNo":9,
+    "Country":"Netherlands",
+    "CapitalCity":"Amsterdam",
+    "notes":"NetherlandsAmsterdam",
+    "FIELD5":""
+  },
+  {
+    "SNo":10,
+    "Country":"Andorra",
+    "CapitalCity":"Andorra la Vella",
+    "notes":"AndorraAndorra la Vella",
+    "FIELD5":""
+  },
+  {
+    "SNo":11,
+    "Country":"Turkey",
+    "CapitalCity":"Ankara",
+    "notes":"TurkeyAnkara",
+    "FIELD5":""
+  },
+  {
+    "SNo":12,
+    "Country":"Madagascar",
+    "CapitalCity":"Antananarivo",
+    "notes":"MadagascarAntananarivo",
+    "FIELD5":""
+  },
+  {
+    "SNo":13,
+    "Country":"Samoa",
+    "CapitalCity":"Apia",
+    "notes":"SamoaApia",
+    "FIELD5":""
+  },
+  {
+    "SNo":14,
+    "Country":"Turkmenistan",
+    "CapitalCity":"Ashgabat",
+    "notes":"TurkmenistanAshgabat",
+    "FIELD5":""
+  },
+  {
+    "SNo":15,
+    "Country":"Eritrea",
+    "CapitalCity":"Asmara",
+    "notes":"EritreaAsmara",
+    "FIELD5":""
+  },
+  {
+    "SNo":16,
+    "Country":"Kazakhstan",
+    "CapitalCity":"Astana",
+    "notes":"KazakhstanAstana",
+    "FIELD5":""
+  },
+  {
+    "SNo":17,
+    "Country":"Paraguay",
+    "CapitalCity":"Asuncin",
+    "notes":"ParaguayAsuncin",
+    "FIELD5":""
+  },
+  {
+    "SNo":18,
+    "Country":"Greece",
+    "CapitalCity":"Athens",
+    "notes":"GreeceAthens",
+    "FIELD5":""
+  },
+  {
+    "SNo":19,
+    "Country":"Cook Islands",
+    "CapitalCity":"Avarua",
+    "notes":"Cook IslandsAvarua",
+    "FIELD5":""
+  },
+  {
+    "SNo":20,
+    "Country":"Iraq",
+    "CapitalCity":"Baghdad",
+    "notes":"IraqBaghdad",
+    "FIELD5":""
+  },
+  {
+    "SNo":21,
+    "Country":"Azerbaijan",
+    "CapitalCity":"Baku",
+    "notes":"AzerbaijanBaku",
+    "FIELD5":""
+  },
+  {
+    "SNo":22,
+    "Country":"Mali",
+    "CapitalCity":"Bamako",
+    "notes":"MaliBamako",
+    "FIELD5":""
+  },
+  {
+    "SNo":23,
+    "Country":"Brunei",
+    "CapitalCity":"Bandar Seri Begawan",
+    "notes":"BruneiBandar Seri Begawan",
+    "FIELD5":""
+  },
+  {
+    "SNo":24,
+    "Country":"Thailand",
+    "CapitalCity":"Bangkok",
+    "notes":"ThailandBangkok",
+    "FIELD5":""
+  },
+  {
+    "SNo":25,
+    "Country":"Central African Republic",
+    "CapitalCity":"Bangui",
+    "notes":"Central African RepublicBangui",
+    "FIELD5":""
+  },
+  {
+    "SNo":26,
+    "Country":"Gambia",
+    "CapitalCity":"Banjul",
+    "notes":"GambiaBanjul",
+    "FIELD5":""
+  },
+  {
+    "SNo":27,
+    "Country":"Saint Kitts and Nevis",
+    "CapitalCity":"Basseterre",
+    "notes":"Saint Kitts and NevisBasseterre",
+    "FIELD5":""
+  },
+  {
+    "SNo":28,
+    "Country":"China",
+    "CapitalCity":"Beijing",
+    "notes":"ChinaBeijing",
+    "FIELD5":""
+  },
+  {
+    "SNo":29,
+    "Country":"Lebanon",
+    "CapitalCity":"Beirut",
+    "notes":"LebanonBeirut",
+    "FIELD5":""
+  },
+  {
+    "SNo":30,
+    "Country":"Serbia",
+    "CapitalCity":"Belgrade",
+    "notes":"SerbiaBelgrade",
+    "FIELD5":""
+  },
+  {
+    "SNo":31,
+    "Country":"Belize",
+    "CapitalCity":"Belmopan",
+    "notes":"BelizeBelmopan",
+    "FIELD5":""
+  },
+  {
+    "SNo":32,
+    "Country":"Germany",
+    "CapitalCity":"Berlin",
+    "notes":"GermanyBerlin",
+    "FIELD5":""
+  },
+  {
+    "SNo":33,
+    "Country":"Switzerland",
+    "CapitalCity":"Bern",
+    "notes":"SwitzerlandBern",
+    "FIELD5":""
+  },
+  {
+    "SNo":34,
+    "Country":"Kyrgyzstan",
+    "CapitalCity":"Bishkek",
+    "notes":"KyrgyzstanBishkek",
+    "FIELD5":""
+  },
+  {
+    "SNo":35,
+    "Country":"Guinea-Bissau",
+    "CapitalCity":"Bissau",
+    "notes":"Guinea-BissauBissau",
+    "FIELD5":""
+  },
+  {
+    "SNo":36,
+    "Country":"Colombia",
+    "CapitalCity":"Bogot",
+    "notes":"ColombiaBogot",
+    "FIELD5":""
+  },
+  {
+    "SNo":37,
+    "Country":"Brazil",
+    "CapitalCity":"Braslia",
+    "notes":"BrazilBraslia",
+    "FIELD5":""
+  },
+  {
+    "SNo":38,
+    "Country":"Slovakia",
+    "CapitalCity":"Bratislava",
+    "notes":"SlovakiaBratislava",
+    "FIELD5":""
+  },
+  {
+    "SNo":39,
+    "Country":"Republic of the Congo",
+    "CapitalCity":"Brazzaville",
+    "notes":"Republic of the CongoBrazzaville",
+    "FIELD5":""
+  },
+  {
+    "SNo":40,
+    "Country":"Barbados",
+    "CapitalCity":"Bridgetown",
+    "notes":"BarbadosBridgetown",
+    "FIELD5":""
+  },
+  {
+    "SNo":41,
+    "Country":"Belgium",
+    "CapitalCity":"Brussels",
+    "notes":"BelgiumBrussels",
+    "FIELD5":""
+  },
+  {
+    "SNo":42,
+    "Country":"Romania",
+    "CapitalCity":"Bucharest",
+    "notes":"RomaniaBucharest",
+    "FIELD5":""
+  },
+  {
+    "SNo":43,
+    "Country":"Hungary",
+    "CapitalCity":"Budapest",
+    "notes":"HungaryBudapest",
+    "FIELD5":""
+  },
+  {
+    "SNo":44,
+    "Country":"Argentina",
+    "CapitalCity":"Buenos Aires",
+    "notes":"ArgentinaBuenos Aires",
+    "FIELD5":""
+  },
+  {
+    "SNo":45,
+    "Country":"Burundi",
+    "CapitalCity":"Bujumbura",
+    "notes":"BurundiBujumbura",
+    "FIELD5":""
+  },
+  {
+    "SNo":46,
+    "Country":"Egypt",
+    "CapitalCity":"Cairo",
+    "notes":"EgyptCairo",
+    "FIELD5":""
+  },
+  {
+    "SNo":47,
+    "Country":"Australia",
+    "CapitalCity":"Canberra",
+    "notes":"AustraliaCanberra",
+    "FIELD5":""
+  },
+  {
+    "SNo":48,
+    "Country":"Venezuela",
+    "CapitalCity":"Caracas",
+    "notes":"VenezuelaCaracas",
+    "FIELD5":""
+  },
+  {
+    "SNo":49,
+    "Country":"Saint Lucia",
+    "CapitalCity":"Castries",
+    "notes":"Saint LuciaCastries",
+    "FIELD5":""
+  },
+  {
+    "SNo":50,
+    "Country":"French Guiana",
+    "CapitalCity":"Cayenne",
+    "notes":"French GuianaCayenne",
+    "FIELD5":""
+  },
+  {
+    "SNo":51,
+    "Country":"United States Virgin Islands",
+    "CapitalCity":"Charlotte Amalie",
+    "notes":"United States Virgin IslandsCharlotte Amalie",
+    "FIELD5":""
+  },
+  {
+    "SNo":52,
+    "Country":"Moldova",
+    "CapitalCity":"Chisinau",
+    "notes":"MoldovaChisinau",
+    "FIELD5":""
+  },
+  {
+    "SNo":53,
+    "Country":"Turks and Caicos Islands",
+    "CapitalCity":"Cockburn Town",
+    "notes":"Turks and Caicos IslandsCockburn Town",
+    "FIELD5":""
+  },
+  {
+    "SNo":54,
+    "Country":"Guinea",
+    "CapitalCity":"Conakry",
+    "notes":"GuineaConakry",
+    "FIELD5":""
+  },
+  {
+    "SNo":55,
+    "Country":"Denmark",
+    "CapitalCity":"Copenhagen",
+    "notes":"DenmarkCopenhagen",
+    "FIELD5":""
+  },
+  {
+    "SNo":56,
+    "Country":"Senegal",
+    "CapitalCity":"Dakar",
+    "notes":"SenegalDakar",
+    "FIELD5":""
+  },
+  {
+    "SNo":57,
+    "Country":"Syria",
+    "CapitalCity":"Damascus",
+    "notes":"SyriaDamascus",
+    "FIELD5":""
+  },
+  {
+    "SNo":58,
+    "Country":"Bangladesh",
+    "CapitalCity":"Dhaka",
+    "notes":"BangladeshDhaka",
+    "FIELD5":""
+  },
+  {
+    "SNo":59,
+    "Country":"East Timor (Timor-Leste)",
+    "CapitalCity":"Dili",
+    "notes":"East Timor (Timor-Leste)Dili",
+    "FIELD5":""
+  },
+  {
+    "SNo":60,
+    "Country":"Djibouti",
+    "CapitalCity":"Djibouti",
+    "notes":"DjiboutiDjibouti",
+    "FIELD5":""
+  },
+  {
+    "SNo":61,
+    "Country":"Tanzania",
+    "CapitalCity":"Dodoma (official)",
+    "notes":"TanzaniaDodoma (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Dar es Salaam (former capital; some government offices remaining)",
+    "notes":"Dar es Salaam (former capital; some government offices remaining)",
+    "FIELD5":""
+  },
+  {
+    "SNo":62,
+    "Country":"Qatar",
+    "CapitalCity":"Doha",
+    "notes":"QatarDoha",
+    "FIELD5":""
+  },
+  {
+    "SNo":63,
+    "Country":"Isle of Man",
+    "CapitalCity":"Douglas",
+    "notes":"Isle of ManDouglas",
+    "FIELD5":""
+  },
+  {
+    "SNo":64,
+    "Country":"Ireland",
+    "CapitalCity":"Dublin",
+    "notes":"IrelandDublin",
+    "FIELD5":""
+  },
+  {
+    "SNo":65,
+    "Country":"Tajikistan",
+    "CapitalCity":"Dushanbe",
+    "notes":"TajikistanDushanbe",
+    "FIELD5":""
+  },
+  {
+    "SNo":66,
+    "Country":"Tristan da Cunha",
+    "CapitalCity":"Edinburgh of the Seven Seas",
+    "notes":"Tristan da CunhaEdinburgh of the Seven Seas",
+    "FIELD5":""
+  },
+  {
+    "SNo":67,
+    "Country":"Sahrawi Arab Democratic Republic",
+    "CapitalCity":"El Aain (declared)",
+    "notes":"Sahrawi Arab Democratic RepublicEl Aain (declared)",
+    "FIELD5":""
+  },
+  {
+    "SNo":68,
+    "Country":"Akrotiri and Dhekelia",
+    "CapitalCity":"Episkopi Cantonment",
+    "notes":"Akrotiri and DhekeliaEpiskopi Cantonment",
+    "FIELD5":""
+  },
+  {
+    "SNo":69,
+    "Country":"Christmas Island",
+    "CapitalCity":"Flying Fish Cove",
+    "notes":"Christmas IslandFlying Fish Cove",
+    "FIELD5":""
+  },
+  {
+    "SNo":70,
+    "Country":"Sierra Leone",
+    "CapitalCity":"Freetown",
+    "notes":"Sierra LeoneFreetown",
+    "FIELD5":""
+  },
+  {
+    "SNo":71,
+    "Country":"Tuvalu",
+    "CapitalCity":"Funafuti",
+    "notes":"TuvaluFunafuti",
+    "FIELD5":""
+  },
+  {
+    "SNo":72,
+    "Country":"Botswana",
+    "CapitalCity":"Gaborone",
+    "notes":"BotswanaGaborone",
+    "FIELD5":""
+  },
+  {
+    "SNo":73,
+    "Country":"Cayman Islands",
+    "CapitalCity":"George Town",
+    "notes":"Cayman IslandsGeorge Town",
+    "FIELD5":""
+  },
+  {
+    "SNo":74,
+    "Country":"Ascension Island",
+    "CapitalCity":"Georgetown",
+    "notes":"Ascension IslandGeorgetown",
+    "FIELD5":""
+  },
+  {
+    "SNo":75,
+    "Country":"Guyana",
+    "CapitalCity":"Georgetown",
+    "notes":"GuyanaGeorgetown",
+    "FIELD5":""
+  },
+  {
+    "SNo":76,
+    "Country":"Gibraltar",
+    "CapitalCity":"Gibraltar",
+    "notes":"GibraltarGibraltar",
+    "FIELD5":""
+  },
+  {
+    "SNo":77,
+    "Country":"South Georgia and the South Sandwich Islands",
+    "CapitalCity":"Grytviken",
+    "notes":"South Georgia and the South Sandwich IslandsGrytviken",
+    "FIELD5":""
+  },
+  {
+    "SNo":78,
+    "Country":"Guatemala",
+    "CapitalCity":"Guatemala City",
+    "notes":"GuatemalaGuatemala City",
+    "FIELD5":""
+  },
+  {
+    "SNo":79,
+    "Country":"Saint Barthlemy",
+    "CapitalCity":"Gustavia",
+    "notes":"Saint BarthlemyGustavia",
+    "FIELD5":""
+  },
+  {
+    "SNo":80,
+    "Country":"Guam",
+    "CapitalCity":"Hagta",
+    "notes":"GuamHagta",
+    "FIELD5":""
+  },
+  {
+    "SNo":81,
+    "Country":"Bermuda",
+    "CapitalCity":"Hamilton",
+    "notes":"BermudaHamilton",
+    "FIELD5":""
+  },
+  {
+    "SNo":82,
+    "Country":"Easter Island",
+    "CapitalCity":"Hanga Roa",
+    "notes":"Easter IslandHanga Roa",
+    "FIELD5":""
+  },
+  {
+    "SNo":83,
+    "Country":"Vietnam",
+    "CapitalCity":"Hanoi",
+    "notes":"VietnamHanoi",
+    "FIELD5":""
+  },
+  {
+    "SNo":84,
+    "Country":"Zimbabwe",
+    "CapitalCity":"Harare",
+    "notes":"ZimbabweHarare",
+    "FIELD5":""
+  },
+  {
+    "SNo":85,
+    "Country":"Somaliland",
+    "CapitalCity":"Hargeisa",
+    "notes":"SomalilandHargeisa",
+    "FIELD5":""
+  },
+  {
+    "SNo":86,
+    "Country":"Cuba",
+    "CapitalCity":"Havana",
+    "notes":"CubaHavana",
+    "FIELD5":""
+  },
+  {
+    "SNo":87,
+    "Country":"Finland",
+    "CapitalCity":"Helsinki",
+    "notes":"FinlandHelsinki",
+    "FIELD5":""
+  },
+  {
+    "SNo":88,
+    "Country":"Solomon Islands",
+    "CapitalCity":"Honiara",
+    "notes":"Solomon IslandsHoniara",
+    "FIELD5":""
+  },
+  {
+    "SNo":89,
+    "Country":"Pakistan",
+    "CapitalCity":"Islamabad",
+    "notes":"PakistanIslamabad",
+    "FIELD5":""
+  },
+  {
+    "SNo":90,
+    "Country":"Indonesia",
+    "CapitalCity":"Jakarta",
+    "notes":"IndonesiaJakarta",
+    "FIELD5":""
+  },
+  {
+    "SNo":91,
+    "Country":"Saint Helena",
+    "CapitalCity":"Jamestown",
+    "notes":"Saint HelenaJamestown",
+    "FIELD5":""
+  },
+  {
+    "SNo":92,
+    "Country":"Israel",
+    "CapitalCity":"Jerusalem (declared, de facto)",
+    "notes":"IsraelJerusalem (declared, de facto)",
+    "FIELD5":""
+  },
+  {
+    "SNo":93,
+    "Country":"State of Palestine",
+    "CapitalCity":"Jerusalem (declared)",
+    "notes":"State of PalestineJerusalem (declared)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Ramallah and Gaza (de facto)",
+    "notes":"Ramallah and Gaza (de facto)",
+    "FIELD5":""
+  },
+  {
+    "SNo":94,
+    "Country":"South Sudan",
+    "CapitalCity":"Juba",
+    "notes":"South SudanJuba",
+    "FIELD5":""
+  },
+  {
+    "SNo":95,
+    "Country":"Afghanistan",
+    "CapitalCity":"Kabul",
+    "notes":"AfghanistanKabul",
+    "FIELD5":""
+  },
+  {
+    "SNo":96,
+    "Country":"Uganda",
+    "CapitalCity":"Kampala",
+    "notes":"UgandaKampala",
+    "FIELD5":""
+  },
+  {
+    "SNo":97,
+    "Country":"Nepal",
+    "CapitalCity":"Kathmandu",
+    "notes":"NepalKathmandu",
+    "FIELD5":""
+  },
+  {
+    "SNo":98,
+    "Country":"Sudan",
+    "CapitalCity":"Khartoum",
+    "notes":"SudanKhartoum",
+    "FIELD5":""
+  },
+  {
+    "SNo":99,
+    "Country":"Ukraine",
+    "CapitalCity":"Kiev",
+    "notes":"UkraineKiev",
+    "FIELD5":""
+  },
+  {
+    "SNo":100,
+    "Country":"Rwanda",
+    "CapitalCity":"Kigali",
+    "notes":"RwandaKigali",
+    "FIELD5":""
+  },
+  {
+    "SNo":101,
+    "Country":"Jamaica",
+    "CapitalCity":"Kingston",
+    "notes":"JamaicaKingston",
+    "FIELD5":""
+  },
+  {
+    "SNo":102,
+    "Country":"Norfolk Island",
+    "CapitalCity":"Kingston",
+    "notes":"Norfolk IslandKingston",
+    "FIELD5":""
+  },
+  {
+    "SNo":103,
+    "Country":"Saint Vincent and the Grenadines",
+    "CapitalCity":"Kingstown",
+    "notes":"Saint Vincent and the GrenadinesKingstown",
+    "FIELD5":""
+  },
+  {
+    "SNo":104,
+    "Country":"Democratic Republic of the Congo",
+    "CapitalCity":"Kinshasa",
+    "notes":"Democratic Republic of the CongoKinshasa",
+    "FIELD5":""
+  },
+  {
+    "SNo":105,
+    "Country":"Malaysia",
+    "CapitalCity":"Kuala Lumpur (official, legislative and royal)",
+    "notes":"MalaysiaKuala Lumpur (official, legislative and royal)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Putrajaya (administrative and judicial)",
+    "notes":"Putrajaya (administrative and judicial)",
+    "FIELD5":""
+  },
+  {
+    "SNo":106,
+    "Country":"Kuwait",
+    "CapitalCity":"Kuwait City",
+    "notes":"KuwaitKuwait City",
+    "FIELD5":""
+  },
+  {
+    "SNo":107,
+    "Country":"Gabon",
+    "CapitalCity":"Libreville",
+    "notes":"GabonLibreville",
+    "FIELD5":""
+  },
+  {
+    "SNo":108,
+    "Country":"Malawi",
+    "CapitalCity":"Lilongwe",
+    "notes":"MalawiLilongwe",
+    "FIELD5":""
+  },
+  {
+    "SNo":109,
+    "Country":"Peru",
+    "CapitalCity":"Lima",
+    "notes":"PeruLima",
+    "FIELD5":""
+  },
+  {
+    "SNo":110,
+    "Country":"Portugal",
+    "CapitalCity":"Lisbon",
+    "notes":"PortugalLisbon",
+    "FIELD5":""
+  },
+  {
+    "SNo":111,
+    "Country":"Slovenia",
+    "CapitalCity":"Ljubljana",
+    "notes":"SloveniaLjubljana",
+    "FIELD5":""
+  },
+  {
+    "SNo":112,
+    "Country":"Togo",
+    "CapitalCity":"Lom",
+    "notes":"TogoLom",
+    "FIELD5":""
+  },
+  {
+    "SNo":113,
+    "Country":"United Kingdom",
+    "CapitalCity":"London",
+    "notes":"United KingdomLondon",
+    "FIELD5":""
+  },
+  {
+    "SNo":114,
+    "Country":"Angola",
+    "CapitalCity":"Luanda",
+    "notes":"AngolaLuanda",
+    "FIELD5":""
+  },
+  {
+    "SNo":115,
+    "Country":"Zambia",
+    "CapitalCity":"Lusaka",
+    "notes":"ZambiaLusaka",
+    "FIELD5":""
+  },
+  {
+    "SNo":116,
+    "Country":"Luxembourg",
+    "CapitalCity":"Luxembourg",
+    "notes":"LuxembourgLuxembourg",
+    "FIELD5":""
+  },
+  {
+    "SNo":117,
+    "Country":"Spain",
+    "CapitalCity":"Madrid",
+    "notes":"SpainMadrid",
+    "FIELD5":""
+  },
+  {
+    "SNo":118,
+    "Country":"Marshall Islands",
+    "CapitalCity":"Majuro",
+    "notes":"Marshall IslandsMajuro",
+    "FIELD5":""
+  },
+  {
+    "SNo":119,
+    "Country":"Equatorial Guinea",
+    "CapitalCity":"Malabo",
+    "notes":"Equatorial GuineaMalabo",
+    "FIELD5":""
+  },
+  {
+    "SNo":120,
+    "Country":"Maldives",
+    "CapitalCity":"Mal",
+    "notes":"MaldivesMal",
+    "FIELD5":""
+  },
+  {
+    "SNo":121,
+    "Country":"Nicaragua",
+    "CapitalCity":"Managua",
+    "notes":"NicaraguaManagua",
+    "FIELD5":""
+  },
+  {
+    "SNo":122,
+    "Country":"Bahrain",
+    "CapitalCity":"Manama",
+    "notes":"BahrainManama",
+    "FIELD5":""
+  },
+  {
+    "SNo":123,
+    "Country":"Philippines",
+    "CapitalCity":"Manila",
+    "notes":"PhilippinesManila",
+    "FIELD5":""
+  },
+  {
+    "SNo":124,
+    "Country":"Mozambique",
+    "CapitalCity":"Maputo",
+    "notes":"MozambiqueMaputo",
+    "FIELD5":""
+  },
+  {
+    "SNo":125,
+    "Country":"Saint Martin",
+    "CapitalCity":"Marigot",
+    "notes":"Saint MartinMarigot",
+    "FIELD5":""
+  },
+  {
+    "SNo":126,
+    "Country":"Lesotho",
+    "CapitalCity":"Maseru",
+    "notes":"LesothoMaseru",
+    "FIELD5":""
+  },
+  {
+    "SNo":127,
+    "Country":"Wallis and Futuna",
+    "CapitalCity":"Mata-Utu",
+    "notes":"Wallis and FutunaMata-Utu",
+    "FIELD5":""
+  },
+  {
+    "SNo":128,
+    "Country":"Swaziland",
+    "CapitalCity":"Mbabane (administrative)",
+    "notes":"SwazilandMbabane (administrative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Lobamba (royal and legislative)",
+    "notes":"Lobamba (royal and legislative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":129,
+    "Country":"Palau",
+    "CapitalCity":"Melekeok (official)",
+    "notes":"PalauMelekeok (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Ngerulmud (seat of government)",
+    "notes":"Ngerulmud (seat of government)",
+    "FIELD5":""
+  },
+  {
+    "SNo":130,
+    "Country":"Mexico",
+    "CapitalCity":"Mexico City",
+    "notes":"MexicoMexico City",
+    "FIELD5":""
+  },
+  {
+    "SNo":131,
+    "Country":"Belarus",
+    "CapitalCity":"Minsk",
+    "notes":"BelarusMinsk",
+    "FIELD5":""
+  },
+  {
+    "SNo":132,
+    "Country":"Somalia",
+    "CapitalCity":"Mogadishu",
+    "notes":"SomaliaMogadishu",
+    "FIELD5":""
+  },
+  {
+    "SNo":133,
+    "Country":"Monaco",
+    "CapitalCity":"Monaco",
+    "notes":"MonacoMonaco",
+    "FIELD5":""
+  },
+  {
+    "SNo":134,
+    "Country":"Liberia",
+    "CapitalCity":"Monrovia",
+    "notes":"LiberiaMonrovia",
+    "FIELD5":""
+  },
+  {
+    "SNo":135,
+    "Country":"Uruguay",
+    "CapitalCity":"Montevideo",
+    "notes":"UruguayMontevideo",
+    "FIELD5":""
+  },
+  {
+    "SNo":136,
+    "Country":"Comoros",
+    "CapitalCity":"Moroni",
+    "notes":"ComorosMoroni",
+    "FIELD5":""
+  },
+  {
+    "SNo":137,
+    "Country":"Russia",
+    "CapitalCity":"Moscow",
+    "notes":"RussiaMoscow",
+    "FIELD5":""
+  },
+  {
+    "SNo":138,
+    "Country":"Oman",
+    "CapitalCity":"Muscat",
+    "notes":"OmanMuscat",
+    "FIELD5":""
+  },
+  {
+    "SNo":139,
+    "Country":"Kenya",
+    "CapitalCity":"Nairobi",
+    "notes":"KenyaNairobi",
+    "FIELD5":""
+  },
+  {
+    "SNo":140,
+    "Country":"Bahamas",
+    "CapitalCity":"Nassau",
+    "notes":"BahamasNassau",
+    "FIELD5":""
+  },
+  {
+    "SNo":141,
+    "Country":"Burma",
+    "CapitalCity":"Naypyidaw",
+    "notes":"BurmaNaypyidaw",
+    "FIELD5":""
+  },
+  {
+    "SNo":142,
+    "Country":"Chad",
+    "CapitalCity":"N'Djamena",
+    "notes":"ChadN'Djamena",
+    "FIELD5":""
+  },
+  {
+    "SNo":143,
+    "Country":"India",
+    "CapitalCity":"New Delhi",
+    "notes":"IndiaNew Delhi",
+    "FIELD5":""
+  },
+  {
+    "SNo":144,
+    "Country":"Niger",
+    "CapitalCity":"Niamey",
+    "notes":"NigerNiamey",
+    "FIELD5":""
+  },
+  {
+    "SNo":145,
+    "Country":"Cyprus",
+    "CapitalCity":"Nicosia",
+    "notes":"CyprusNicosia",
+    "FIELD5":""
+  },
+  {
+    "SNo":146,
+    "Country":"Northern Cyprus",
+    "CapitalCity":"Nicosia",
+    "notes":"Northern CyprusNicosia",
+    "FIELD5":""
+  },
+  {
+    "SNo":147,
+    "Country":"Mauritania",
+    "CapitalCity":"Nouakchott",
+    "notes":"MauritaniaNouakchott",
+    "FIELD5":""
+  },
+  {
+    "SNo":148,
+    "Country":"New Caledonia",
+    "CapitalCity":"Nouma",
+    "notes":"New CaledoniaNouma",
+    "FIELD5":""
+  },
+  {
+    "SNo":149,
+    "Country":"Tonga",
+    "CapitalCity":"Nuku?alofa",
+    "notes":"TongaNuku?alofa",
+    "FIELD5":""
+  },
+  {
+    "SNo":150,
+    "Country":"Greenland",
+    "CapitalCity":"Nuuk",
+    "notes":"GreenlandNuuk",
+    "FIELD5":""
+  },
+  {
+    "SNo":151,
+    "Country":"Aruba",
+    "CapitalCity":"Oranjestad",
+    "notes":"ArubaOranjestad",
+    "FIELD5":""
+  },
+  {
+    "SNo":152,
+    "Country":"Norway",
+    "CapitalCity":"Oslo",
+    "notes":"NorwayOslo",
+    "FIELD5":""
+  },
+  {
+    "SNo":153,
+    "Country":"Canada",
+    "CapitalCity":"Ottawa",
+    "notes":"CanadaOttawa",
+    "FIELD5":""
+  },
+  {
+    "SNo":154,
+    "Country":"Burkina Faso",
+    "CapitalCity":"Ouagadougou",
+    "notes":"Burkina FasoOuagadougou",
+    "FIELD5":""
+  },
+  {
+    "SNo":155,
+    "Country":"American Samoa",
+    "CapitalCity":"Pago Pago",
+    "notes":"American SamoaPago Pago",
+    "FIELD5":""
+  },
+  {
+    "SNo":156,
+    "Country":"Federated States of Micronesia",
+    "CapitalCity":"Palikir",
+    "notes":"Federated States of MicronesiaPalikir",
+    "FIELD5":""
+  },
+  {
+    "SNo":157,
+    "Country":"Panama",
+    "CapitalCity":"Panama City",
+    "notes":"PanamaPanama City",
+    "FIELD5":""
+  },
+  {
+    "SNo":158,
+    "Country":"French Polynesia",
+    "CapitalCity":"Papeete",
+    "notes":"French PolynesiaPapeete",
+    "FIELD5":""
+  },
+  {
+    "SNo":159,
+    "Country":"Suriname",
+    "CapitalCity":"Paramaribo",
+    "notes":"SurinameParamaribo",
+    "FIELD5":""
+  },
+  {
+    "SNo":160,
+    "Country":"France",
+    "CapitalCity":"Paris",
+    "notes":"FranceParis",
+    "FIELD5":""
+  },
+  {
+    "SNo":161,
+    "Country":"Sint Maarten",
+    "CapitalCity":"Philipsburg",
+    "notes":"Sint MaartenPhilipsburg",
+    "FIELD5":""
+  },
+  {
+    "SNo":162,
+    "Country":"Cambodia",
+    "CapitalCity":"Phnom Penh",
+    "notes":"CambodiaPhnom Penh",
+    "FIELD5":""
+  },
+  {
+    "SNo":163,
+    "Country":"Montserrat",
+    "CapitalCity":"Plymouth (official)",
+    "notes":"MontserratPlymouth (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Brades Estate (de facto)",
+    "notes":"Brades Estate (de facto)",
+    "FIELD5":""
+  },
+  {
+    "SNo":164,
+    "Country":"Montenegro",
+    "CapitalCity":"Podgorica (official)",
+    "notes":"MontenegroPodgorica (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Cetinje (seat of the President)",
+    "notes":"Cetinje (seat of the President)",
+    "FIELD5":""
+  },
+  {
+    "SNo":165,
+    "Country":"Mauritius",
+    "CapitalCity":"Port Louis",
+    "notes":"MauritiusPort Louis",
+    "FIELD5":""
+  },
+  {
+    "SNo":166,
+    "Country":"Papua New Guinea",
+    "CapitalCity":"Port Moresby",
+    "notes":"Papua New GuineaPort Moresby",
+    "FIELD5":""
+  },
+  {
+    "SNo":167,
+    "Country":"Vanuatu",
+    "CapitalCity":"Port Vila",
+    "notes":"VanuatuPort Vila",
+    "FIELD5":""
+  },
+  {
+    "SNo":168,
+    "Country":"Haiti",
+    "CapitalCity":"Port-au-Prince",
+    "notes":"HaitiPort-au-Prince",
+    "FIELD5":""
+  },
+  {
+    "SNo":169,
+    "Country":"Trinidad and Tobago",
+    "CapitalCity":"Port of Spain",
+    "notes":"Trinidad and TobagoPort of Spain",
+    "FIELD5":""
+  },
+  {
+    "SNo":170,
+    "Country":"Benin",
+    "CapitalCity":"Porto-Novo (official)",
+    "notes":"BeninPorto-Novo (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Cotonou (de facto)",
+    "notes":"Cotonou (de facto)",
+    "FIELD5":""
+  },
+  {
+    "SNo":171,
+    "Country":"Czech Republic",
+    "CapitalCity":"Prague",
+    "notes":"Czech RepublicPrague",
+    "FIELD5":""
+  },
+  {
+    "SNo":172,
+    "Country":"Cape Verde",
+    "CapitalCity":"Praia",
+    "notes":"Cape VerdePraia",
+    "FIELD5":""
+  },
+  {
+    "SNo":173,
+    "Country":"South Africa",
+    "CapitalCity":"Pretoria (executive)",
+    "notes":"South AfricaPretoria (executive)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Bloemfontein (judicial)",
+    "notes":"Bloemfontein (judicial)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Cape Town (legislative)",
+    "notes":"Cape Town (legislative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":174,
+    "Country":"Kosovo",
+    "CapitalCity":"Pristina",
+    "notes":"KosovoPristina",
+    "FIELD5":""
+  },
+  {
+    "SNo":175,
+    "Country":"North Korea",
+    "CapitalCity":"Pyongyang",
+    "notes":"North KoreaPyongyang",
+    "FIELD5":""
+  },
+  {
+    "SNo":176,
+    "Country":"Ecuador",
+    "CapitalCity":"Quito",
+    "notes":"EcuadorQuito",
+    "FIELD5":""
+  },
+  {
+    "SNo":177,
+    "Country":"Morocco",
+    "CapitalCity":"Rabat",
+    "notes":"MoroccoRabat",
+    "FIELD5":""
+  },
+  {
+    "SNo":178,
+    "Country":"Iceland",
+    "CapitalCity":"Reykjavk",
+    "notes":"IcelandReykjavk",
+    "FIELD5":""
+  },
+  {
+    "SNo":179,
+    "Country":"Latvia",
+    "CapitalCity":"Riga",
+    "notes":"LatviaRiga",
+    "FIELD5":""
+  },
+  {
+    "SNo":180,
+    "Country":"Saudi Arabia",
+    "CapitalCity":"Riyadh",
+    "notes":"Saudi ArabiaRiyadh",
+    "FIELD5":""
+  },
+  {
+    "SNo":181,
+    "Country":"British Virgin Islands",
+    "CapitalCity":"Road Town",
+    "notes":"British Virgin IslandsRoad Town",
+    "FIELD5":""
+  },
+  {
+    "SNo":182,
+    "Country":"Italy",
+    "CapitalCity":"Rome",
+    "notes":"ItalyRome",
+    "FIELD5":""
+  },
+  {
+    "SNo":183,
+    "Country":"Dominica",
+    "CapitalCity":"Roseau",
+    "notes":"DominicaRoseau",
+    "FIELD5":""
+  },
+  {
+    "SNo":184,
+    "Country":"Northern Mariana Islands",
+    "CapitalCity":"Saipan",
+    "notes":"Northern Mariana IslandsSaipan",
+    "FIELD5":""
+  },
+  {
+    "SNo":185,
+    "Country":"Costa Rica",
+    "CapitalCity":"San Jos",
+    "notes":"Costa RicaSan Jos",
+    "FIELD5":""
+  },
+  {
+    "SNo":186,
+    "Country":"Puerto Rico",
+    "CapitalCity":"San Juan",
+    "notes":"Puerto RicoSan Juan",
+    "FIELD5":""
+  },
+  {
+    "SNo":187,
+    "Country":"San Marino",
+    "CapitalCity":"San Marino",
+    "notes":"San MarinoSan Marino",
+    "FIELD5":""
+  },
+  {
+    "SNo":188,
+    "Country":"El Salvador",
+    "CapitalCity":"San Salvador",
+    "notes":"El SalvadorSan Salvador",
+    "FIELD5":""
+  },
+  {
+    "SNo":189,
+    "Country":"Yemen",
+    "CapitalCity":"Sana'a",
+    "notes":"YemenSana'a",
+    "FIELD5":""
+  },
+  {
+    "SNo":190,
+    "Country":"Chile",
+    "CapitalCity":"Santiago (official)",
+    "notes":"ChileSantiago (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Valparaso (legislative)",
+    "notes":"Valparaso (legislative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":191,
+    "Country":"Dominican Republic",
+    "CapitalCity":"Santo Domingo",
+    "notes":"Dominican RepublicSanto Domingo",
+    "FIELD5":""
+  },
+  {
+    "SNo":192,
+    "Country":"So Tom and Prncipe",
+    "CapitalCity":"So Tom",
+    "notes":"So Tom and PrncipeSo Tom",
+    "FIELD5":""
+  },
+  {
+    "SNo":193,
+    "Country":"Bosnia and Herzegovina",
+    "CapitalCity":"Sarajevo",
+    "notes":"Bosnia and HerzegovinaSarajevo",
+    "FIELD5":""
+  },
+  {
+    "SNo":194,
+    "Country":"South Korea",
+    "CapitalCity":"Seoul",
+    "notes":"South KoreaSeoul",
+    "FIELD5":""
+  },
+  {
+    "SNo":195,
+    "Country":"Singapore",
+    "CapitalCity":"Singapore",
+    "notes":"SingaporeSingapore",
+    "FIELD5":""
+  },
+  {
+    "SNo":196,
+    "Country":"Macedonia",
+    "CapitalCity":"Skopje",
+    "notes":"MacedoniaSkopje",
+    "FIELD5":""
+  },
+  {
+    "SNo":197,
+    "Country":"Bulgaria",
+    "CapitalCity":"Sofia",
+    "notes":"BulgariaSofia",
+    "FIELD5":""
+  },
+  {
+    "SNo":198,
+    "Country":"Sri Lanka",
+    "CapitalCity":"Sri Jayawardenepura Kotte (official)",
+    "notes":"Sri LankaSri Jayawardenepura Kotte (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Colombo (former capital; has some government offices)",
+    "notes":"Colombo (former capital; has some government offices)",
+    "FIELD5":""
+  },
+  {
+    "SNo":199,
+    "Country":"Grenada",
+    "CapitalCity":"St. George's",
+    "notes":"GrenadaSt. George's",
+    "FIELD5":""
+  },
+  {
+    "SNo":200,
+    "Country":"Jersey",
+    "CapitalCity":"St. Helier",
+    "notes":"JerseySt. Helier",
+    "FIELD5":""
+  },
+  {
+    "SNo":201,
+    "Country":"Antigua and Barbuda",
+    "CapitalCity":"St. John's",
+    "notes":"Antigua and BarbudaSt. John's",
+    "FIELD5":""
+  },
+  {
+    "SNo":202,
+    "Country":"Guernsey",
+    "CapitalCity":"St. Peter Port",
+    "notes":"GuernseySt. Peter Port",
+    "FIELD5":""
+  },
+  {
+    "SNo":203,
+    "Country":"Saint Pierre and Miquelon",
+    "CapitalCity":"St. Pierre",
+    "notes":"Saint Pierre and MiquelonSt. Pierre",
+    "FIELD5":""
+  },
+  {
+    "SNo":204,
+    "Country":"Falkland Islands",
+    "CapitalCity":"Stanley",
+    "notes":"Falkland IslandsStanley",
+    "FIELD5":""
+  },
+  {
+    "SNo":205,
+    "Country":"Nagorno-Karabakh Republic",
+    "CapitalCity":"Stepanakert",
+    "notes":"Nagorno-Karabakh RepublicStepanakert",
+    "FIELD5":""
+  },
+  {
+    "SNo":206,
+    "Country":"Sweden",
+    "CapitalCity":"Stockholm",
+    "notes":"SwedenStockholm",
+    "FIELD5":""
+  },
+  {
+    "SNo":207,
+    "Country":"Bolivia",
+    "CapitalCity":"Sucre (constitutional)",
+    "notes":"BoliviaSucre (constitutional)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"La Paz (administrative)",
+    "notes":"La Paz (administrative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":208,
+    "Country":"Abkhazia",
+    "CapitalCity":"Sukhumi",
+    "notes":"AbkhaziaSukhumi",
+    "FIELD5":""
+  },
+  {
+    "SNo":209,
+    "Country":"Fiji",
+    "CapitalCity":"Suva",
+    "notes":"FijiSuva",
+    "FIELD5":""
+  },
+  {
+    "SNo":210,
+    "Country":"Taiwan",
+    "CapitalCity":"Taipei",
+    "notes":"TaiwanTaipei",
+    "FIELD5":""
+  },
+  {
+    "SNo":211,
+    "Country":"Estonia",
+    "CapitalCity":"Tallinn",
+    "notes":"EstoniaTallinn",
+    "FIELD5":""
+  },
+  {
+    "SNo":212,
+    "Country":"Kiribati",
+    "CapitalCity":"Tarawa",
+    "notes":"KiribatiTarawa",
+    "FIELD5":""
+  },
+  {
+    "SNo":213,
+    "Country":"Uzbekistan",
+    "CapitalCity":"Tashkent",
+    "notes":"UzbekistanTashkent",
+    "FIELD5":""
+  },
+  {
+    "SNo":214,
+    "Country":"Georgia",
+    "CapitalCity":"Tbilisi (official)",
+    "notes":"GeorgiaTbilisi (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":null,
+    "Country":"",
+    "CapitalCity":"Kutaisi (legislative)",
+    "notes":"Kutaisi (legislative)",
+    "FIELD5":""
+  },
+  {
+    "SNo":215,
+    "Country":"Honduras",
+    "CapitalCity":"Tegucigalpa",
+    "notes":"HondurasTegucigalpa",
+    "FIELD5":""
+  },
+  {
+    "SNo":216,
+    "Country":"Iran",
+    "CapitalCity":"Tehran",
+    "notes":"IranTehran",
+    "FIELD5":""
+  },
+  {
+    "SNo":217,
+    "Country":"Bhutan",
+    "CapitalCity":"Thimphu",
+    "notes":"BhutanThimphu",
+    "FIELD5":""
+  },
+  {
+    "SNo":218,
+    "Country":"Albania",
+    "CapitalCity":"Tirana",
+    "notes":"AlbaniaTirana",
+    "FIELD5":""
+  },
+  {
+    "SNo":219,
+    "Country":"Transnistria",
+    "CapitalCity":"Tiraspol",
+    "notes":"TransnistriaTiraspol",
+    "FIELD5":""
+  },
+  {
+    "SNo":220,
+    "Country":"Japan",
+    "CapitalCity":"Tokyo",
+    "notes":"JapanTokyo",
+    "FIELD5":""
+  },
+  {
+    "SNo":221,
+    "Country":"Faroe Islands",
+    "CapitalCity":"Trshavn",
+    "notes":"Faroe IslandsTrshavn",
+    "FIELD5":""
+  },
+  {
+    "SNo":222,
+    "Country":"Libya",
+    "CapitalCity":"Tripoli",
+    "notes":"LibyaTripoli",
+    "FIELD5":""
+  },
+  {
+    "SNo":223,
+    "Country":"South Ossetia",
+    "CapitalCity":"Tskhinvali",
+    "notes":"South OssetiaTskhinvali",
+    "FIELD5":""
+  },
+  {
+    "SNo":224,
+    "Country":"Tunisia",
+    "CapitalCity":"Tunis",
+    "notes":"TunisiaTunis",
+    "FIELD5":""
+  },
+  {
+    "SNo":225,
+    "Country":"Mongolia",
+    "CapitalCity":"Ulan Bator",
+    "notes":"MongoliaUlan Bator",
+    "FIELD5":""
+  },
+  {
+    "SNo":226,
+    "Country":"Liechtenstein",
+    "CapitalCity":"Vaduz",
+    "notes":"LiechtensteinVaduz",
+    "FIELD5":""
+  },
+  {
+    "SNo":227,
+    "Country":"Malta",
+    "CapitalCity":"Valletta",
+    "notes":"MaltaValletta",
+    "FIELD5":""
+  },
+  {
+    "SNo":228,
+    "Country":"Anguilla",
+    "CapitalCity":"The Valley",
+    "notes":"AnguillaThe Valley",
+    "FIELD5":""
+  },
+  {
+    "SNo":229,
+    "Country":"Vatican City",
+    "CapitalCity":"Vatican City",
+    "notes":"Vatican CityVatican City",
+    "FIELD5":""
+  },
+  {
+    "SNo":230,
+    "Country":"Seychelles",
+    "CapitalCity":"Victoria",
+    "notes":"SeychellesVictoria",
+    "FIELD5":""
+  },
+  {
+    "SNo":231,
+    "Country":"Austria",
+    "CapitalCity":"Vienna",
+    "notes":"AustriaVienna",
+    "FIELD5":""
+  },
+  {
+    "SNo":232,
+    "Country":"Laos",
+    "CapitalCity":"Vientiane",
+    "notes":"LaosVientiane",
+    "FIELD5":""
+  },
+  {
+    "SNo":233,
+    "Country":"Lithuania",
+    "CapitalCity":"Vilnius",
+    "notes":"LithuaniaVilnius",
+    "FIELD5":""
+  },
+  {
+    "SNo":234,
+    "Country":"Poland",
+    "CapitalCity":"Warsaw",
+    "notes":"PolandWarsaw",
+    "FIELD5":""
+  },
+  {
+    "SNo":235,
+    "Country":"United States",
+    "CapitalCity":"Washington, D.C.",
+    "notes":"United StatesWashington, D.C.",
+    "FIELD5":""
+  },
+  {
+    "SNo":236,
+    "Country":"New Zealand",
+    "CapitalCity":"Wellington",
+    "notes":"New ZealandWellington",
+    "FIELD5":""
+  },
+  {
+    "SNo":237,
+    "Country":"Cocos (Keeling) Islands",
+    "CapitalCity":"West Island",
+    "notes":"Cocos (Keeling) IslandsWest Island",
+    "FIELD5":""
+  },
+  {
+    "SNo":238,
+    "Country":"Curaao",
+    "CapitalCity":"Willemstad",
+    "notes":"CuraaoWillemstad",
+    "FIELD5":""
+  },
+  {
+    "SNo":239,
+    "Country":"Namibia",
+    "CapitalCity":"Windhoek",
+    "notes":"NamibiaWindhoek",
+    "FIELD5":""
+  },
+  {
+    "SNo":240,
+    "Country":"Ivory Coast",
+    "CapitalCity":"Yamoussoukro (official)",
+    "notes":"Ivory CoastYamoussoukro (official)",
+    "FIELD5":""
+  },
+  {
+    "SNo":241,
+    "Country":"Cameroon",
+    "CapitalCity":"Yaound",
+    "notes":"CameroonYaound",
+    "FIELD5":""
+  },
+  {
+    "SNo":242,
+    "Country":"Nauru",
+    "CapitalCity":"Yaren (de facto)",
+    "notes":"NauruYaren (de facto)",
+    "FIELD5":""
+  },
+  {
+    "SNo":243,
+    "Country":"Armenia",
+    "CapitalCity":"Yerevan",
+    "notes":"ArmeniaYerevan",
+    "FIELD5":""
+  },
+  {
+    "SNo":244,
+    "Country":"Croatia",
+    "CapitalCity":"Zagreb",
+    "notes":"CroatiaZagreb",
+    "FIELD5":""
+  }
+]
